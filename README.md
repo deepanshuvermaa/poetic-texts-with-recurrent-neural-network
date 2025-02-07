@@ -52,5 +52,11 @@ Here are some generated samples with different temperatures:
 
 ->Temperature: 1.0 for thy name will see thy knights. let us see. away, but that it is for me or tarry not!
 
+
+![poetry generation](https://github.com/user-attachments/assets/a83b5ec3-4658-472f-84e3-65e29f8440d2)
+![poetry generation_output](https://github.com/user-attachments/assets/d4f98d11-eccb-42d1-8193-311bc6f88bd5)
+![poetry generation2](https://github.com/user-attachments/assets/e868bd62-b95a-4106-be21-35db27ec6210)
+![poetry generation3](https://github.com/user-attachments/assets/d3bac540-eb77-4a0d-a1c6-4dff64738970)
+
 License
 This project is licensed under the MIT License. Feel free to modify and use it as you wish.
